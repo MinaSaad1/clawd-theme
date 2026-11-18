@@ -1,5 +1,7 @@
 # clawd-theme
 
+![clawd-theme in the Claude Code desktop app: main Clawd typing at its desk on the right, the Clawd team board and team room on the left](docs/hero.png)
+
 A theme mod for the Claude Code desktop app, with a pixel Clawd team that shows your subagents at work.
 
 > Unofficial, fan-made theme. Not affiliated with or endorsed by Anthropic. Claude, Clawd and the Claude
