@@ -1,0 +1,6 @@
+{
+  "name": "clawd-theme",
+  "version": "0.2.0",
+  "description": "Unofficial Claude Code desktop theme: a pixel Clawd at its desk, plus a Clawd team room and live board that show your subagents working, celebrating and falling asleep.",
+  "types": "./types/index.d.ts"
+}

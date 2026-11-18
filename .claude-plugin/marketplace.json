@@ -1,0 +1,6 @@
+{
+  "name": "clawd-theme",
+  "description": "Unofficial, fan-made Claude Code desktop theme with a pixel Clawd team that shows your subagents at work.",
+  "owner": { "name": "Mina Saad" },
+  "plugins": [{ "name": "clawd-theme", "source": "./" }]
+}
